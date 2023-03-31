@@ -121,7 +121,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-CSRF_TRUSTED_ORIGINS = ["django-test-deploy-production.up.railway.app","12.0.0.1"]
+CSRF_TRUSTED_ORIGINS = ["https://django-test-deploy-production.up.railway.app"]
 
 # Internationalization
 # https://docs.djangoproject.com/en/4.1/topics/i18n/
